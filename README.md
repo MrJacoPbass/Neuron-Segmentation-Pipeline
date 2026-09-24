@@ -24,7 +24,7 @@ Because this pipeline depends on **NumPy 1.x** (`numpy==1.26.4`), running it ins
 
 ```bash
 # 1. Clone this repository
-git clone [https://github.com/MrJacoPbass/Neuron-Segmentation-Pipeline.git](https://github.com/MrJacoPbass/Neuron-Segmentation-Pipeline.git)
+git clone https://github.com/MrJacoPbass/Neuron-Segmentation-Pipeline.git
 cd Neuron-Segmentation-Pipeline
 
 # 2. Create and activate a virtual environment
