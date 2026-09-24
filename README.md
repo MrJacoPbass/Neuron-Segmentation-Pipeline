@@ -37,3 +37,10 @@ source venv/bin/activate
 
 # 3. Install required dependencies
 pip install -r requirements.txt
+```
+
+## Usage
+1. Set the path to the images in the variable `path_culture` inside of `_F2M_parallel.py`.
+2. Set the parameters for the pipeline in `parameters.py`
+3. Run `_F2M_parallel.py` and input the name of the save folder.
+
